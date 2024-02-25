@@ -10,6 +10,9 @@
   <a>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaovitorJS/react-data-listing">
   </a>
+  <a>
+    <img alt="Node version" src="https://badgen.net/static/node/20.11.0/green">
+  </a>
   <a href="https://lbesson.mit-license.org/" target="_blank">
     <img alt="MIT license" src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
